@@ -1,2 +1,2 @@
-# G-rev-3
+# Gorev-3
 deneme
